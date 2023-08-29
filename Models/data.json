@@ -1,0 +1,686 @@
+[
+    {
+        "name": "Domino's",
+        "city": "Pune",
+        "location_id": 1,
+        "city_id": 1,
+        "locality": "Shalimar Bagh",
+        "thumb": [
+            "Assets/breakfast.jpg",
+            "Assets/dinner.png",
+            "Assets/drinks.png",
+            "Assets/dinner.png"
+        ],
+        "aggregate_rating": 4.2,
+        "rating_text": "Very  Good",
+        "min_price": 666,
+        "contact_number": 919453524651,
+        "cuisine": [
+            {
+                "id": 1,
+                "name": "North  Indian"
+            },
+            {
+                "id": 4,
+                "name": "Fast  Food"
+            }
+        ],
+        "image": "Assets/breakfast.jpg",
+        "mealtype_id": 1
+    },
+    {
+        "name": "KFC",
+        "city": "Delhi",
+        "location_id": 1,
+        "city_id": 1,
+        "locality": "Shalimar Bagh",
+        "thumb": [
+            "Assets/breakfast.jpg",
+            "Assets/dinner.png",
+            "Assets/drinks.png",
+            "Assets/dinner.png",
+            "Assets/dinner.png"
+        ],
+        "aggregate_rating": 4.5,
+        "rating_text": "Excellent",
+        "min_price": 999,
+        "contact_number": 919453524651,
+        "cuisine": [
+            {
+                "id": 2,
+                "name": "South  Indian"
+            },
+            {
+                "id": 4,
+                "name": "Fast  Food"
+            }
+        ],
+        "image": "Assets/breakfast.jpg",
+        "mealtype_id": 1
+    },
+    {
+        "name": "Baba  Ka  Dhaba",
+        "city": "Delhi",
+        "location_id": 5,
+        "city_id": 1,
+        "locality": "Anand Vihar",
+        "thumb": [
+            "Assets/breakfast.jpg",
+            "Assets/dinner.png",
+            "Assets/drinks.png",
+            "Assets/dinner.png"
+        ],
+        "aggregate_rating": 3.5,
+        "rating_text": "Excellent",
+        "min_price": 599,
+        "contact_number": 919453524651,
+        "cuisine": [
+            {
+                "id": 2,
+                "name": "South  Indian"
+            },
+            {
+                "id": 4,
+                "name": "Fast  Food"
+            }
+        ],
+        "image": "Assets/breakfast.jpg",
+        "mealtype_id": 2
+    },
+    {
+        "name": "Vaishali",
+        "city": "Pune",
+        "location_id": 1,
+        "city_id": 12,
+        "locality": "Old Pune",
+        "thumb": [
+            "Assets/breakfast.jpg",
+            "Assets/dinner.png",
+            "Assets/drinks.png",
+            "Assets/dinner.png"
+        ],
+        "aggregate_rating": 4.3,
+        "rating_text": "Very  Good",
+        "min_price": 330,
+        "contact_number": 9234516170,
+        "cuisine": [
+            {
+                "id": 2,
+                "name": "South  Indian"
+            },
+            {
+                "id": 4,
+                "name": "Fast  Food"
+            }
+        ],
+        "image": "Assets/breakfast.jpg",
+        "mealtype_id": 1
+    },
+    {
+        "name": "Shreyas",
+        "city": "Pune",
+        "location_id": 2,
+        "city_id": 12,
+        "locality": "Deccan Gymkhana",
+        "thumb": [
+            "Assets/breakfast.jpg",
+            "Assets/dinner.png",
+            "Assets/drinks.png",
+            "Assets/dinner.png"
+        ],
+        "aggregate_rating": 4.4,
+        "rating_text": "Very  Good",
+        "min_price": 255,
+        "contact_number": 919458824651,
+        "cuisine": [
+            {
+                "id": 1,
+                "name": "North  Indian"
+            },
+            {
+                "id": 2,
+                "name": "South  Indian"
+            }
+        ],
+        "image": "Assets/breakfast.jpg",
+        "mealtype_id": 1
+    },
+    {
+        "name": "Drink Hub",
+        "city": "Pune",
+        "location_id": 2,
+        "city_id": 12,
+        "locality": "Deccan Gymkhana",
+        "thumb": [
+            "Assets/breakfast.jpg",
+            "Assets/dinner.png",
+            "Assets/drinks.png",
+            "Assets/dinner.png"
+        ],
+        "aggregate_rating": 4.0,
+        "rating_text": "Very  Good",
+        "min_price": 155,
+        "contact_number": 9366728900,
+        "cuisine": [
+            {
+                "id": 3,
+                "name": "Chines"
+            },
+            {
+                "id": 4,
+                "name": "Fast  Food"
+            }
+        ],
+        "image": "Assets/breakfast.jpg",
+        "mealtype_id": 5
+    },
+    {
+        "name": "Kayani Bakery",
+        "city": "Pune",
+        "location_id": 2,
+        "city_id": 12,
+        "locality": "Deccan Gymkhana",
+        "thumb": [
+            "Assets/breakfast.jpg",
+            "Assets/dinner.png",
+            "Assets/drinks.png",
+            "Assets/dinner.png"
+        ],
+        "aggregate_rating": 4.6,
+        "rating_text": "Very  Good",
+        "min_price": 189,
+        "contact_number": 917478905566,
+        "cuisine": [
+            {
+                "id": 1,
+                "name": "North  Indian"
+            },
+            {
+                "id": 4,
+                "name": "Fast  Food"
+            }
+        ],
+        "image": "Assets/breakfast.jpg",
+        "mealtype_id": 2
+    },
+    {
+        "name": "Sattu Vadevale",
+        "city": "Pune",
+        "location_id": 3,
+        "city_id": 12,
+        "locality": "Katraj",
+        "thumb": [
+            "Assets/breakfast.jpg",
+            "Assets/dinner.png",
+            "Assets/drinks.png",
+            "Assets/dinner.png"
+        ],
+        "aggregate_rating": 4.7,
+        "rating_text": "Very  Good",
+        "min_price": 99,
+        "contact_number": 918888764500,
+        "cuisine": [
+            {
+                "id": 4,
+                "name": "Fast  Food"
+            },
+            {
+                "id": 5,
+                "name": "Street Food"
+            }
+        ],
+        "image": "Assets/breakfast.jpg",
+        "mealtype_id": 3
+    },
+    {
+        "name": "Mahesh Chines Corner",
+        "city": "Pune",
+        "location_id": 3,
+        "city_id": 12,
+        "locality": "Katraj",
+        "thumb": [
+            "Assets/breakfast.jpg",
+            "Assets/dinner.png",
+            "Assets/drinks.png",
+            "Assets/dinner.png"
+        ],
+        "aggregate_rating": 4.4,
+        "rating_text": "Very  Good",
+        "min_price": 199,
+        "contact_number": 917219895082,
+        "cuisine": [
+            {
+                "id": 3,
+                "name": "Chines"
+            },
+            {
+                "id": 5,
+                "name": "Street Food"
+            }
+        ],
+        "image": "Assets/breakfast.jpg",
+        "mealtype_id": 4
+    },
+    {
+        "name": "Kanifnath rasvantigruh",
+        "city": "Pune",
+        "location_id": 4,
+        "city_id": 12,
+        "locality": "Koregaon Park",
+        "thumb": [
+            "Assets/breakfast.jpg",
+            "Assets/dinner.png",
+            "Assets/drinks.png",
+            "Assets/dinner.png"
+        ],
+        "aggregate_rating": 4.8,
+        "rating_text": "Very  Good",
+        "min_price": 70,
+        "contact_number": 917290546789,
+        "cuisine": [
+            {
+                "id": 5,
+                "name": "Street Food"
+            }
+        ],
+        "image": "Assets/breakfast.jpg",
+        "mealtype_id": 5
+    },
+    {
+        "name": "Hotel Shivraj",
+        "city": "Pune",
+        "location_id": 5,
+        "city_id": 12,
+        "locality": "aundh-ravet BRT",
+        "thumb": [
+            "Assets/breakfast.jpg",
+            "Assets/dinner.png",
+            "Assets/drinks.png",
+            "Assets/dinner.png"
+        ],
+        "aggregate_rating": 4.9,
+        "rating_text": "Very  Good",
+        "min_price": 999,
+        "contact_number": 919988712345,
+        "cuisine": [
+            {
+                "id": 1,
+                "name": "North  Indian"
+            },
+            {
+                "id": 2,
+                "name": "South  Indian"
+            }
+        ],
+        "image": "Assets/breakfast.jpg",
+        "mealtype_id": 1
+    },
+    {
+        "name": "Puneri Misal",
+        "city": "Pune",
+        "location_id": 6,
+        "city_id": 12,
+        "locality": "Bhosari",
+        "thumb": [
+            "Assets/breakfast.jpg",
+            "Assets/dinner.png",
+            "Assets/drinks.png",
+            "Assets/dinner.png"
+        ],
+        "aggregate_rating": 4.8,
+        "rating_text": "Very  Good",
+        "min_price": 145,
+        "contact_number": 918876123409,
+        "cuisine": [
+            {
+                "id": 1,
+                "name": "North  Indian"
+            },
+            {
+                "id": 2,
+                "name": "South  Indian"
+            }
+        ],
+        "image": "Assets/breakfast.jpg",
+        "mealtype_id": 3
+    },
+    {
+        "name": "Party Starter Pune",
+        "city": "Pune",
+        "location_id": 6,
+        "city_id": 12,
+        "locality": "Bhosari",
+        "thumb": [
+            "Assets/breakfast.jpg",
+            "Assets/dinner.png",
+            "Assets/drinks.png",
+            "Assets/dinner.png"
+        ],
+        "aggregate_rating": 4.4,
+        "rating_text": "Very  Good",
+        "min_price": 60,
+        "contact_number": 919453267651,
+        "cuisine": [
+            {
+                "id": 1,
+                "name": "North  Indian"
+            },
+            {
+                "id": 3,
+                "name": "Chines"
+            },
+            {
+                "id": 4,
+                "name": "Fast  Food"
+            }
+        ],
+        "image": "Assets/breakfast.jpg",
+        "mealtype_id": 6
+    },
+    {
+        "name": "The Starters Point",
+        "city": "Pune",
+        "location_id": 2,
+        "city_id": 12,
+        "locality": "Deccan Gymkhana",
+        "thumb": [
+            "Assets/breakfast.jpg",
+            "Assets/dinner.png",
+            "Assets/drinks.png",
+            "Assets/dinner.png"
+        ],
+        "aggregate_rating": 4.1,
+        "rating_text": "Very  Good",
+        "min_price": 59,
+        "contact_number": 917712908745,
+        "cuisine": [
+            {
+                "id": 1,
+                "name": "North  Indian"
+            },
+            {
+                "id": 3,
+                "name": "Chines"
+            },
+            {
+                "id": 2,
+                "name": "South  Indian"
+            }
+        ],
+        "image": "Assets/breakfast.jpg",
+        "mealtype_id": 6
+    },
+    {
+        "name": "The Starters Point",
+        "city": "Pune",
+        "location_id": 5,
+        "city_id": 12,
+        "locality": "Koregaon Park",
+        "thumb": [
+            "Assets/breakfast.jpg",
+            "Assets/dinner.png",
+            "Assets/drinks.png",
+            "Assets/dinner.png"
+        ],
+        "aggregate_rating": 4.9,
+        "rating_text": "Very  Good",
+        "min_price": 30,
+        "contact_number": 917712908005,
+        "cuisine": [
+           
+            {
+                "id": 5,
+                "name": "Street Food"
+            }
+        ],
+        "image": "Assets/breakfast.jpg",
+        "mealtype_id": 6
+    },
+    {
+        "name": "Sattu Vadapav",
+        "city": "Karjat",
+        "location_id": 2,
+        "city_id": 13,
+        "locality": "Dr.babasaheb Ambedkar Statue",
+        "thumb": [
+            "Assets/breakfast.jpg",
+            "Assets/dinner.png",
+            "Assets/drinks.png",
+            "Assets/dinner.png"
+        ],
+        "aggregate_rating": 5,
+        "rating_text": "Excelent",
+        "min_price":30,
+        "contact_number": 917734892140,
+        "cuisine": [
+            {
+                "id": 5,
+                "name": "Steet Food"
+            }
+        ],
+        "image": "Assets/breakfast.jpg",
+        "mealtype_id": 3
+    },
+    {
+        "name": "Dagde Vadapav",
+        "city": "Karjat",
+        "location_id": 2,
+        "city_id": 13,
+        "locality": "Dr.babasaheb Ambedkar Statue",
+        "thumb": [
+            "Assets/breakfast.jpg",
+            "Assets/dinner.png",
+            "Assets/drinks.png",
+            "Assets/dinner.png"
+        ],
+        "aggregate_rating": 4.8,
+        "rating_text": "Good",
+        "min_price":30,
+        "contact_number": 918880456721,
+        "cuisine": [
+            {
+                "id": 5,
+                "name": "Steet Food"
+            }
+        ],
+        "image": "Assets/breakfast.jpg",
+        "mealtype_id": 3
+    },
+    {
+        "name": "Meher Bakery",
+        "city": "Karjat",
+        "location_id": 2,
+        "city_id": 13,
+        "locality": "Dr.babasaheb Ambedkar Statue",
+        "thumb": [
+            "Assets/breakfast.jpg",
+            "Assets/dinner.png",
+            "Assets/drinks.png",
+            "Assets/dinner.png"
+        ],
+        "aggregate_rating":4.4,
+        "rating_text": "Excelent",
+        "min_price":50,
+        "contact_number": 917745219805,
+        "cuisine": [
+            {
+                "id": 1,
+                "name": "North India"
+            }
+        ],
+        "image": "Assets/breakfast.jpg",
+        "mealtype_id": 2
+    },
+    {
+        "name": "Navnath Kachchi Dabeli",
+        "city": "Karjat",
+        "location_id": 3,
+        "city_id": 13,
+        "locality": "Dahivali",
+        "thumb": [
+            "Assets/breakfast.jpg",
+            "Assets/dinner.png",
+            "Assets/drinks.png",
+            "Assets/dinner.png"
+        ],
+        "aggregate_rating": 4.9,
+        "rating_text": "Excelent",
+        "min_price":30,
+        "contact_number": 917865123406,
+        "cuisine": [
+            {
+                "id": 5,
+                "name": "Steet Food"
+            }
+        ],
+        "image": "Assets/breakfast.jpg",
+        "mealtype_id": 3
+    },
+    {
+        "name": "Om sai Icecream Parlour",
+        "city": "Karjat",
+        "location_id": 2,
+        "city_id": 13,
+        "locality": "Dr.babasaheb Ambedkar Statue",
+        "thumb": [
+            "Assets/breakfast.jpg",
+            "Assets/dinner.png",
+            "Assets/drinks.png",
+            "Assets/dinner.png"
+        ],
+        "aggregate_rating": 4.2,
+        "rating_text": "Excelent",
+        "min_price":49,
+        "contact_number": 918412892140,
+        "cuisine": [
+            {
+                "id": 1,
+                "name": "North India"
+            }
+        ],
+        "image": "Assets/breakfast.jpg",
+        "mealtype_id": 5
+    },
+    {
+        "name": "Savant Bhelpuri",
+        "city": "Karjat",
+        "location_id": 3,
+        "city_id": 13,
+        "locality": "Kotvalnagar",
+        "thumb": [
+            "Assets/breakfast.jpg",
+            "Assets/dinner.png",
+            "Assets/drinks.png",
+            "Assets/dinner.png"
+        ],
+        "aggregate_rating": 5,
+        "rating_text": "Excelent",
+        "min_price":30,
+        "contact_number": 917734892140,
+        "cuisine": [
+            {
+                "id": 5,
+                "name": "Steet Food"
+            }
+        ],
+        "image": "Assets/breakfast.jpg",
+        "mealtype_id": 3
+    },
+    {
+        "name": "Shivam Hotel",
+        "city": "Karjat",
+        "location_id": 4,
+        "city_id": 13,
+        "locality": "Karjat Railway Station",
+        "thumb": [
+            "Assets/breakfast.jpg",
+            "Assets/dinner.png",
+            "Assets/drinks.png",
+            "Assets/dinner.png"
+        ],
+        "aggregate_rating":4.5,
+        "rating_text": "Excelent",
+        "min_price":30,
+        "contact_number": 917734893211,
+        "cuisine": [
+            {
+                "id": 5,
+                "name": "Steet Food"
+            },
+            {
+                "id": 3,
+                "name": "Chines"
+            },
+            {
+                "id": 2,
+                "name": "South India"
+            }
+        ],
+        "image": "Assets/breakfast.jpg",
+        "mealtype_id": 3
+    },
+    {
+        "name": "Hotel Visava",
+        "city": "Karjat",
+        "location_id": 5,
+        "city_id": 13,
+        "locality": "Kalyan Highway",
+        "thumb": [
+            "Assets/breakfast.jpg",
+            "Assets/dinner.png",
+            "Assets/drinks.png",
+            "Assets/dinner.png"
+        ],
+        "aggregate_rating": 4.5,
+        "rating_text": "Excelent",
+        "min_price":149,
+        "contact_number": 917745672140,
+        "cuisine": [
+            {
+                "id": 1,
+                "name": "North India"
+            },
+            {
+                "id":2,
+                "name":"South India"
+            },{
+                "id":3,
+                "name":"Chines"
+            }
+        ],
+        "image": "Assets/breakfast.jpg",
+        "mealtype_id": 1
+    },
+    {
+        "name": "Namak",
+        "city": "Karjat",
+        "location_id": 5,
+        "city_id": 13,
+        "locality": "Kalyan Highway",
+        "thumb": [
+            "Assets/breakfast.jpg",
+            "Assets/dinner.png",
+            "Assets/drinks.png",
+            "Assets/dinner.png"
+        ],
+        "aggregate_rating": 4.6,
+        "rating_text": "Excelent",
+        "min_price":159,
+        "contact_number": 918976672140,
+        "cuisine": [
+            {
+                "id": 1,
+                "name": "North India"
+            },
+            {
+                "id":2,
+                "name":"South India"
+            },{
+                "id":3,
+                "name":"Chines"
+            }
+        ],
+        "image": "Assets/breakfast.jpg",
+        "mealtype_id": 1
+    }
+]
