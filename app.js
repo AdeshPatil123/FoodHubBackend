@@ -4,10 +4,9 @@ const router = require("./Routes/index");
 const port =process.env.PORT||8050;
 const cors = require("cors");
 const mongoose = require('mongoose');
+require('dotenv').config();
 
-
-
-const DB = 'mongodb+srv://adesh9066:tvfY0bvpotQape2v@cluster0.3jskcba.mongodb.net/myfood';
+const DB = process.env.DB_CONNECTION_STRING;
 
 mongoose.connect(DB,{ useNewUrlParser: true, useUnifiedTopology: true }).then(()=>{console.log('Connect to MongoDB')}).catch((err)=> console.log(err));
 app.use(express.json());
